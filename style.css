@@ -12,3 +12,18 @@ h2{
 h4{
     font-family: cursive;
 }
+#note{
+    text-align: center;
+}
+.contact{
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hobby{
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#mar{
+    margin: 2%;
+}
